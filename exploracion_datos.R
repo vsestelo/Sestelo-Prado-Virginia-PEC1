@@ -60,6 +60,9 @@ boxplot(log2(msubse2), col=groupColors, main="Niveles de señal de los 5 primero
         ylab="Nivel de señal", las=2, cex.axis=0.7, cex.main=0.7)
 
 # PCA
+# Se transforma logarítmicamente la matriz (se suma 1 para evitar log(0))
+logX <- log2(matriz+1)
+
 # Se elimina cualquier fila/columna con NA tras la transformación
 logX <- na.omit(logX)
 
