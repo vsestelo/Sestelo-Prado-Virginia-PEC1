@@ -1,0 +1,135 @@
+---
+title: "Metadatos dataset"
+author: "Virginia Sestelo Prado"
+date: "2024-11-06"
+output: html_document
+---
+#METABOLOMICS WORKBENCH amitch_20151211_9581341_mwtab.txt DATATRACK_ID:450 efahy_20151227_122651 STUDY_ID:ST000291 ANALYSIS_ID:AN000464 PROJECT_ID:PR000233
+VERSION             	1
+CREATED_ON             	December 27, 2015, 12:26 pm
+#PROJECT
+PR:PROJECT_TITLE                 	LC-MS Based Approaches to Investigate Metabolomic Differences in the Urine and
+PR:PROJECT_TITLE                 	Plasma of Young Women after Drinking Cranberry Juice or Apple Juice
+PR:PROJECT_SUMMARY               	The present study aimed to investigate overall metabolic changes caused by
+PR:PROJECT_SUMMARY               	cranberry juice or apple juice consumption using a global LC-MS based
+PR:PROJECT_SUMMARY               	metabolomics approach.
+PR:INSTITUTE                     	University of Florida
+PR:DEPARTMENT                    	Food Science and Nutrition
+PR:LABORATORY                    	Gu
+PR:LAST_NAME                     	Liu
+PR:FIRST_NAME                    	Haiyan
+PR:ADDRESS                       	--
+PR:EMAIL                         	haiyan66@ufl.edu
+PR:PHONE                         	352-392-1991x210
+#STUDY
+ST:STUDY_TITLE                   	LC-MS Based Approaches to Investigate Metabolomic Differences in the Urine of
+ST:STUDY_TITLE                   	Young Women after Drinking Cranberry Juice or Apple Juice
+ST:STUDY_TYPE                    	drug dosage
+ST:STUDY_SUMMARY                 	Eighteen healthy female college students between 21-29 years old with a normal
+ST:STUDY_SUMMARY                 	BMI of 18.5-25 were recruited. Each subject was provided with a list of foods
+ST:STUDY_SUMMARY                 	that contained significant amount of procyanidins, such as cranberries, apples,
+ST:STUDY_SUMMARY                 	grapes, blueberries, chocolate and plums. They were advised to avoid these foods
+ST:STUDY_SUMMARY                 	during the 1-6th day and the rest of the study. On the morning of the 7th day, a
+ST:STUDY_SUMMARY                 	first-morning baseline urine sample and blood sample were collected from all
+ST:STUDY_SUMMARY                 	human subjects after overnight fasting. Participants were then randomly
+ST:STUDY_SUMMARY                 	allocated into two groups (n=9) to consume cranberry juice or apple juice. Six
+ST:STUDY_SUMMARY                 	bottles (250 ml/bottle) of juice were given to participants to drink in the
+ST:STUDY_SUMMARY                 	morning and evening of the 7th, 8th, and 9th day. On the morning of 10th day,
+ST:STUDY_SUMMARY                 	all subjects returned to the clinical unit to provide a first-morning urine
+ST:STUDY_SUMMARY                 	sample after overnight fasting. The blood sample was also collected from
+ST:STUDY_SUMMARY                 	participants 30 min later after they drank another bottle of juice in the
+ST:STUDY_SUMMARY                 	morning. After two-weeks of wash out period, participants switched to the
+ST:STUDY_SUMMARY                 	alternative regimen and repeated the protocol. One human subject was dropped off
+ST:STUDY_SUMMARY                 	this study because she missed part of her appointments. Another two human
+ST:STUDY_SUMMARY                 	subjects were removed from urine metabolomics analyses because they failed to
+ST:STUDY_SUMMARY                 	provide required urine samples after juice drinking.The present study aimed to
+ST:STUDY_SUMMARY                 	investigate overall metabolic changes caused by procyanidins concentrates from
+ST:STUDY_SUMMARY                 	cranberries and apples using a global LCMS based metabolomics approach. All
+ST:STUDY_SUMMARY                 	plasma and urine samples were stored at -80oC until analysis.
+ST:INSTITUTE                     	University of Florida
+ST:DEPARTMENT                    	SECIM
+ST:LABORATORY                    	Gu
+ST:LAST_NAME                     	Liu
+ST:FIRST_NAME                    	Haiyan
+ST:ADDRESS                       	--
+ST:EMAIL                         	haiyan66@ufl.edu
+ST:PHONE                         	352-392-1991x210
+ST:NUM_GROUPS                    	3
+ST:TOTAL_SUBJECTS                	45
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:SUBJECT_COMMENTS              	Gu_subjects_human urine.txt
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	b1	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b2	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b4	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b6	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b7	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b8	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b9	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b10	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b11	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b12	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b13	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b14	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b15	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b16	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	b17	Treatment :Baseline urine	
+SUBJECT_SAMPLE_FACTORS           	-	c1	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c2	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c4	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c6	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c7	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c8	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c9	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c10	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c11	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c12	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c13	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c14	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c15	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c16	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	c17	Treatment :Urine after drinking cranberry juice	
+SUBJECT_SAMPLE_FACTORS           	-	a1	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a2	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a4	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a6	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a7	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a8	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a9	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a10	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a11	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a12	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a13	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a14	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a15	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a16	Treatment :Urine after drinking apple juice	
+SUBJECT_SAMPLE_FACTORS           	-	a17	Treatment :Urine after drinking apple juice	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	n/a
+CO:COLLECTION_PROTOCOL_FILENAME  	Gu_collection_human urine.txt
+#TREATMENT
+TR:TREATMENT_SUMMARY             	n/a
+TR:TREATMENT_PROTOCOL_FILENAME   	Gu_treatment_human urine.txt
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	n/a
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Metabolomics_LCMSProtocol_urine.pdf
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE           	Reversed phase
+CH:INSTRUMENT_NAME               	Thermo Scientific-Dionex Ultimate 3000
+CH:COLUMN_NAME                   	ACE Excel 2 C18-PFP (100 x 2.1mm, 2um)
+CH:METHODS_FILENAME              	Metabolomics_LCMSProtocol_urine.pdf
+CH:INTERNAL_STANDARD             	Appendix A - Internal Standard Prep GLCMS.pdf
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+#MS
+MS:MS_COMMENTS                   	-
+MS:INSTRUMENT_TYPE               	Orbitrap
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	POSITIVE
+MS:INSTRUMENT_NAME               	Thermo Q Exactive Orbitrap
+MS:INSTRUMENT_NAME               	Thermo Scientific Q-Exactive
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS         	Peak area
+MS_METABOLITE_DATA_START
